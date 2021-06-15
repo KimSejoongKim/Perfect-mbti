@@ -1,3 +1,11 @@
+@font-face{
+  font-family: "notosans";
+  src:url("./font/NotoSans.otf") format(".otf"),
+      url("./font/NotoSans.woff") format(".woff"),
+      url("./font/NotoSans.woff2") format(".woff2");
+}
+
+
 .App {
   text-align: center;
 }
