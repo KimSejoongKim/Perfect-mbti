@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.87627b39.chunk.css",
-    "main.js": "/static/js/main.4811967b.chunk.js",
-    "main.js.map": "/static/js/main.4811967b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5fc1ee72.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5fc1ee72.js.map",
-    "static/js/2.24d8bc41.chunk.js": "/static/js/2.24d8bc41.chunk.js",
-    "static/js/2.24d8bc41.chunk.js.map": "/static/js/2.24d8bc41.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.87627b39.chunk.css.map": "/static/css/main.87627b39.chunk.css.map",
-    "static/js/2.24d8bc41.chunk.js.LICENSE.txt": "/static/js/2.24d8bc41.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/NotoSans.bf54b090.otf"
+    "main.css": "/perfectmbti.xyz/static/css/main.3759eb42.chunk.css",
+    "main.js": "/perfectmbti.xyz/static/js/main.4811967b.chunk.js",
+    "main.js.map": "/perfectmbti.xyz/static/js/main.4811967b.chunk.js.map",
+    "runtime-main.js": "/perfectmbti.xyz/static/js/runtime-main.2ca809af.js",
+    "runtime-main.js.map": "/perfectmbti.xyz/static/js/runtime-main.2ca809af.js.map",
+    "static/js/2.a4c6e7a6.chunk.js": "/perfectmbti.xyz/static/js/2.a4c6e7a6.chunk.js",
+    "static/js/2.a4c6e7a6.chunk.js.map": "/perfectmbti.xyz/static/js/2.a4c6e7a6.chunk.js.map",
+    "index.html": "/perfectmbti.xyz/index.html",
+    "static/css/main.3759eb42.chunk.css.map": "/perfectmbti.xyz/static/css/main.3759eb42.chunk.css.map",
+    "static/js/2.a4c6e7a6.chunk.js.LICENSE.txt": "/perfectmbti.xyz/static/js/2.a4c6e7a6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/perfectmbti.xyz/static/media/NotoSans.bf54b090.otf"
   },
   "entrypoints": [
-    "static/js/runtime-main.5fc1ee72.js",
-    "static/js/2.24d8bc41.chunk.js",
-    "static/css/main.87627b39.chunk.css",
+    "static/js/runtime-main.2ca809af.js",
+    "static/js/2.a4c6e7a6.chunk.js",
+    "static/css/main.3759eb42.chunk.css",
     "static/js/main.4811967b.chunk.js"
   ]
 }
